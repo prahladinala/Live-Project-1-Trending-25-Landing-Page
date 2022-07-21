@@ -44,7 +44,7 @@
 }
 .square{
     position: absolute;
-    bottom: 0px;
+    bottom: 10px;
     left: 100px;
 }
 .hero-text{
@@ -70,7 +70,6 @@ button{
 .square{
     position: absolute;
     z-index: -1;
-    bottom: -70px;
 }
 .hero-container-right{
     display: flex;
@@ -128,7 +127,7 @@ button{
     text-align: center;
 }
 
-.star ,.star2, .globe{
+.star, .globe{
     position: absolute;
 }
 
@@ -140,9 +139,4 @@ button{
 .star{
     top: 10px;
     right: 10%;
-}
-.star2{
-    bottom: 20px;
-    left: 43%;
-    width: 50px;
 }
