@@ -2,7 +2,6 @@
 
 <!-- Social Links -->
 
-[![Stargazers][stars-shield]][stars-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Instagram][instagram-shield]][instagram-url]
 [![Twitter][twitter-shield]][twitter-url]
@@ -77,10 +76,7 @@ This project is presently deployed in **Netlify Service**
 
 [![Netlify][netlify-shield]][project-url]
 
-<iframe
-  src="https://trending25.netlify.app/"
-  style="width:100%; height:300px;"
-></iframe>
+[Live Project URL](https://trending25.netlify.app/)
 
 <!-- LEARNT -->
 
