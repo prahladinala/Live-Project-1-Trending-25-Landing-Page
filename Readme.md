@@ -48,7 +48,7 @@
 
 ## About The Project
 
-![Project 01: Trending 2025](readme_assets/project01.jpg)
+![Project 01: Trending 2025](./readme_assets/Project01.jpg)
 
 Here's a project learnt and build the project based on HTML5 and CSS3 only
 
