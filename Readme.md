@@ -48,7 +48,7 @@
 
 ## About The Project
 
-[![Project 01: Trending 2025][product-screenshot]](https://prahladinala.in)
+!(Project 01: Trending 2025)[readme_assets/project01.jpg]
 
 Here's a project learnt and build the project based on HTML5 and CSS3 only
 
