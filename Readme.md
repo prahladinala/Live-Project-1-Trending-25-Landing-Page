@@ -124,7 +124,7 @@ For this project i took around `5 to 6 hours` to complete it. The major portion 
 - **Email :** prahladinala@gmail.com
 - **Website :** [prahladinala.in](https://prahladinala.in)
 
-Project Link: [https://github.com/prahladinala/repo_name](https://github.com/prahladinala/repo_name)
+Project Link: [https://github.com/prahladinala/ineuron-live-class-project-1](https://github.com/prahladinala/ineuron-live-class-project-1)
 
 <!-- BACK TO TOP -->
 
@@ -176,5 +176,5 @@ Project Link: [https://github.com/prahladinala/repo_name](https://github.com/pra
 
 <!-- Project screenshot -->
 
-[product-screenshot]: readme_assets/project01.jpg
+[product-screenshot]: /readme_assets/project01.jpg
 [project-url]: https://trending25.netlify.app/
