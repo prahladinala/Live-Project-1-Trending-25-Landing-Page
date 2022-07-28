@@ -6,7 +6,9 @@
 [![Instagram][instagram-shield]][instagram-url]
 [![Twitter][twitter-shield]][twitter-url]
 [![Hashnode][hashnode-shield]][hashnode-url]
+[![Dribbble][dribbble-shield]][dribbble-url]
 [![Behance][behance-shield]][behance-url]
+[![Figma][figma-shield]][figma-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -59,6 +61,7 @@ Here's a project learnt and build the project based on HTML5 and CSS3 only
 
 1. ![HTML][html-shield]
 2. ![CSS][css-shield]
+3. ![Markdown][markdown-shield]
 
 **Using Tools**
 
@@ -100,25 +103,30 @@ For this project i took around `5 to 6 hours` to complete it. The major portion 
 
 ## Recommended Articles
 
-1. [**HTML 5 Tags in depth**](https://blogs.prahladinala.in/what-is-html-and-what-is-css)
+1. [**What is a Website**](https://blogs.prahladinala.in/what-is-a-website)
 
-2. [**Getting Started with Emmet**](https://blogs.prahladinala.in/getting-started-with-emmet)
+1. [**HTML 5 Tags in depth**](https://blogs.prahladinala.in/html-tags-in-depth)
 
-3. [**CSS 3 in depth**](https://blogs.prahladinala.in/)
+1. [**What are meta tags**](https://blogs.prahladinala.in/what-are-meta-tags-in-html)
 
-4. [**CSS Positions in Depth**](https://blogs.prahladinala.in/positions-in-css)
+1. [**Getting Started with Emmet**](https://blogs.prahladinala.in/getting-started-with-emmet)
 
-5. [**Markdown CheatSheet**](https://blogs.prahladinala.in/introduction-to-markdown)
+1. [**CSS 3 in depth**](https://blogs.prahladinala.in/)
 
-6. [**Git CheatSheet**](https://blogs.prahladinala.in/git-cheatsheet)
+1. [**CSS Positions in Depth**](https://blogs.prahladinala.in/positions-in-css)
+
+1. [**Markdown CheatSheet**](https://blogs.prahladinala.in/introduction-to-markdown)
+
+1. [**Git CheatSheet**](https://blogs.prahladinala.in/git-cheatsheet)
 
 <!-- CONTACT -->
 
 ## Contact
 
-- **Name :** Prahlad Inala
-- **Email :** prahladinala@gmail.com
-- **Website :** [prahladinala.in](https://prahladinala.in)
+- **Name 👨‍💻:** [Prahlad Inala](https://prahladinala.in)
+- **Email 📧:** [prahladinala@gmail.com](mailto:prahladinala@gmail.com)
+- **Website 💻:** [prahladinala.in](https://prahladinala.in)
+- **Blog 📝:** [blogs.prahladinala.in](https://blogs.prahladinala.in/)
 
 Project Link: [https://github.com/prahladinala/ineuron-live-class-project-1](https://github.com/prahladinala/ineuron-live-class-project-1)
 
@@ -169,6 +177,11 @@ Project Link: [https://github.com/prahladinala/ineuron-live-class-project-1](htt
 [netlify-shield]: https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7
 [git-shield]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
 [github-shield]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
+[dribbble-shield]: https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white
+[dribbble-url]: https://dribbble.com/prahladinala
+[figma-shield]: https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
+[figma-url]: https://www.figma.com/@prahladinala
+[markdown-shield]: https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white
 
 <!-- Project screenshot -->
 
