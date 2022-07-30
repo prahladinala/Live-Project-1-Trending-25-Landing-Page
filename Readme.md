@@ -13,7 +13,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/prahladinala/ineuron-live-class-project-1">
+  <a href="https://github.com/prahladinala/Live-Project-1-Trending-25-Landing-Page">
     <img src="https://learncodeonline.in/mascot.png" alt="Logo" width="80">
   </a>
 
@@ -128,7 +128,7 @@ For this project i took around `5 to 6 hours` to complete it. The major portion 
 - **Website 💻:** [prahladinala.in](https://prahladinala.in)
 - **Blog 📝:** [blogs.prahladinala.in](https://blogs.prahladinala.in/)
 
-Project Link: [https://github.com/prahladinala/ineuron-live-class-project-1](https://github.com/prahladinala/ineuron-live-class-project-1)
+Project Link: [https://github.com/prahladinala/Live-Project-1-Trending-25-Landing-Page](https://github.com/prahladinala/Live-Project-1-Trending-25-Landing-Page)
 
 <!-- BACK TO TOP -->
 
